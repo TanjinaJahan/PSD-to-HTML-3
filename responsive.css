@@ -1,0 +1,243 @@
+@media(max-width:1061px){
+.logo{
+	width:100%;
+	float:none;
+	margin-bottom:30px;
+}
+.menu{
+	width:100%;
+}
+.menu ul{
+	text-align:center;
+	float:none;
+}
+.menu ul li{
+	float:none;
+	display:inline;
+}
+.menu ul li a{
+	display:inline-block;
+}
+.logo img{
+	display:block;
+	margin:auto;
+}
+.welcome-text{
+	line-height:50px;
+}
+.welcome-text p{
+	font-size:30px;
+}
+.welcome-text h1{
+	font-size:45px;
+}
+.form-one{
+	width:100%;
+	float:none;
+}
+.form-two{
+	width:100%;
+}
+.form-one input{
+	width:100%;
+	margin-bottom:10px;
+	padding:1%;
+}
+.form-two textarea{
+	padding:1%;
+	height:100px;
+}
+.form{
+	width:80%;
+	margin:auto;
+}
+.copyright{
+	width:100%;
+	float:none;
+	text-align:center;
+}
+.copy-icon{
+	width:100%;
+	margin-top:20px;
+	float:none;
+}
+.copy-icon ul{
+	text-align:center;
+}
+.copy-icon ul li{
+	float:none;
+	display:inline;
+}
+.copy-icon ul li a{
+	display:inline-block;
+}
+.image-column{
+	width:50%;
+	float:left;
+	text-align:center;
+}
+.wordpress-image img{
+	padding:15px 0;
+}
+.our-team{
+	width:100%;
+}
+.row-1{
+	background:none;
+}
+.column-a{
+	width:100%;
+	float:none;
+	text-align:center;
+	margin-bottom:20px;
+}
+.column-b{
+	width:30%;
+	margin:auto;
+	float:none;
+}
+.column-c{
+	width:100%;
+	float:none;
+	text-align:center;	
+	margin-bottom:20px;
+}
+.column-d{
+	width:30%;
+	margin:auto;
+	float:none;
+}
+.column-e{
+	width:30%;
+}
+}
+
+
+@media(max-width:730px){
+.column{
+	width:100%;
+	float:none;
+}
+.content{
+	border-bottom:1px solid #fed136;
+	margin-bottom:40px;
+}
+.content p{
+	margin-bottom:9px;
+}
+.column .icon i{
+	margin-bottom:10px;
+}
+.column-2{
+	width:48%;
+	margin-right:4%;
+	margin-bottom:30px;
+}
+.column-2:nth-child(2),
+.column-2:nth-child(4),
+.column-2:nth-child(6){
+	margin-right:0;
+}
+.column-2:nth-child(3){
+	margin-right:4%;
+}
+.column-3{
+	width:30%;
+	float:none;
+	text-align:center;
+	margin:auto;
+	display:block;
+}	
+.column-3:last-child{
+	width:30%;
+	float:none;
+	text-align:center;
+	margin:auto;
+	display:block;
+}
+.team-image-text{
+	margin-bottom:20px;
+}
+.p{
+	width:100%;
+}
+}
+@media(max-width:640px){
+.common-text h2{
+	font-size:25px;
+}
+.welcome-text{
+	line-height:50px;
+}
+.welcome-text p{
+	font-size:25px;
+}
+.welcome-text h1{
+	font-size:35px;
+}
+.logo{
+	width:40%;
+	float:right;
+	overflow:hidden;
+}
+.menu{
+	width:60%;
+}
+.bar{
+	display:block;
+}
+.menu ul{
+	text-align:left;
+	float:left;
+	display:none;
+}
+.menu ul li{
+	float:none;
+	display:block;
+}
+
+.column-b{
+	width:50%;
+	margin:auto;
+	float:none;
+}
+.column-d{
+	width:50%;
+	margin:auto;
+	float:none;
+}
+.column-e{
+	width:50%;
+}
+.column-3,
+.column-3:last-child{
+	width:50%;
+}
+.form{
+	width:100%;
+}
+.welcome-text {
+    padding: 50px 0;
+}
+}
+@media(max-width:470px){
+.image-column {
+    width: 100%;
+    float: none;
+    text-align: center;
+}
+.welcome-text p{
+	font-size:20px;
+}
+.welcome-text h1{
+	font-size:25px;
+}
+
+}
+@media(max-width:430px){
+.column-2{
+	float:none;
+	width:100%;
+	height:auto;
+}
+
